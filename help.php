@@ -1,0 +1,27 @@
+<?php include 'header.php';?>
+<?php include 'tab.php';?>
+
+<p class='welcome'>Welcome to S2Net help page</p>
+<p>This is the help page of S2Net web site. S2net will group the news headlines into 12 groups and analyze the most popular news group. To analyze the results, click 'Analyze' tab as shown in figure 1. </P>
+
+<img src="images/help/image1.png" alt="Figure 1" width="400" class="centeredImage"  border="2">
+<h6 align=center><i>Figure 1</i></h6>
+
+<p>Once you click the analyze tab, you can select the time period of data which you want. Set the time period and click submit as shown in figure 2.</p>
+
+<img src="images/help/image2.png" alt="Figure 2" width="400" class="centeredImage"  border="2">
+<h6 align=center><i>Figure 2</i></h6>
+
+<p>Then, it confirms the time period. If you want to change the time period, you can change it in this page. If not, click next as shown in figure 3.</p>
+<img src="images/help/image3.png" alt="Figure 3" width="400" class="centeredImage"  border="2">
+<h6 align=center><i>Figure 3</i></h6>
+
+<p>It will result you the percentage of the news for each group as in figure 4, and will draw the pie chart for the percentage of the major groups as in figure 5.</p>
+<img src="images/help/image4.png" alt="Figure 4" width="400" class="centeredImage"  border="2">
+<h6 align=center><i>Figure 4</i></h6>
+
+
+<img src="images/help/image5.png" alt="Figure 5" width="400" class="centeredImage"  border="2">
+<h6 align=center><i>Figure 5</i></h6>
+
+<?php include 'footer.php';?>

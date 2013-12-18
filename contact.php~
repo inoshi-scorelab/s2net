@@ -1,0 +1,9 @@
+<?php include 'header.php';?>
+<?php include 'tab.php';?>
+
+<p class='welcome'>Contact us</p>
+<p>Please contact us and let us know your comments.</p>
+<p><br>Ms. Fernando,  M. A. I. D. Fernando <br>Research Assistant of UCSC<br>University of Colombo, School of Computing<br>Colombo 7<br>Email:<i>inoshi.fernando@gmail.com<i></p>
+<p><br>Dr. Kasun De Zoysa <br>Senior Lecturer of UCSC <br>University of Colombo, School of Computing<br>Colombo 7<br>Email:<i>kasun@ucsc.cmb.ac.lk<i></p>
+<p><br>Dr. Amitha Caldera <br>Senior Lecturer of UCSC <br>University of Colombo, School of Computing<br>Colombo 7<br>Email:<i>hac@ucsc.cmb.ac.lk<i></p>
+<?php include 'footer.php';?>

@@ -1,0 +1,134 @@
+body{
+  background-image:url('images/bg.jpg');
+  background-repeat:repeat-x;
+}
+
+table{
+  border: 1px solid black;
+  border-color:#3c5a9a;
+  background-color:white;
+  background-repeat:repeat-x;
+  padding-top:0px;
+  padding-bottom:0px;
+  padding-right:0px;
+  padding-left:0px;
+  margin:0px;
+  border-spacing:0px;
+}
+
+p,li{
+  font-family:"Verdana";
+  font-size:14px;
+  text-indent:25px;
+  text-align:justify;
+  line-height:200%;
+}
+
+p{
+  margin-left:1cm;
+  margin-right:1cm;
+}
+.leger{
+    width: 4px;
+    height:4px;
+    font-size:7px;
+}
+
+.table{
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:0.5cm;
+  width:750px;
+}
+
+.banner{
+  width:750px;
+  height:136px;
+  background-image:url('images/banner.jpg');
+  padding-top:0px;
+  padding-bottom:0px;
+  padding-right:0px;
+  padding-left:0px;
+  margin:0px;
+}
+
+.tabs{
+  height:38px;
+  background-color:#3c5a9a;
+/*  background-image:url('images/tab.jpg');*/
+  width:167px;
+  font-style:italic;
+  font-size:17px;
+  font-family:"Verdana";
+  
+}
+
+.tab{
+  height:38px;
+  width:167px;
+  text-align:center;
+}
+
+
+a.link:link {
+  color:#FFFFFF;
+  text-decoration:none;
+}    /* unvisited link */
+a.link:visited {
+  color:#FFFFFF;
+  text-decoration:none;
+} /* visited link */
+a.link:hover {
+  color:#9abfda;
+  text-decoration:none;
+
+}   /* mouse over link */
+a.link:active {
+  color:#9abfda;
+  text-decoration:none;
+
+}  /* selected link */
+
+
+
+
+.home{
+  background-color:#3c5a9a;
+  width:38px;
+  height:38px;
+}
+
+.welcome{
+  font-family:"Verdana";
+  font-style:italic;
+  font-weight:bold;
+  font-size:18px;
+  line-height:200%;
+}
+
+.blink{
+  text-decoration:blink;
+  font-family:"Verdana";
+  font-style:italic;
+  font-weight:bold;
+  font-size:18px;
+  line-height:200%;
+  text-align:center;
+  color:#cc0000;
+}
+
+.centeredImage
+    {
+    margin-left:170px;
+    margin-bottom:0px;
+    padding:0px;
+    }
+
+.footer{
+  font-style:italic;
+  font-size:11px;
+  font-family:"Verdana";
+  text-align:center;
+  line-height:200%;
+}
+

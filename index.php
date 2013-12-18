@@ -1,0 +1,32 @@
+<?php include 'header.php';?>
+<?php include 'tab.php';?>
+
+  <p class='welcome'>Welcome to S2Net</p>
+  <p>S2Net is a web tool which provides you about the information      		regarding the news titles in Sri Lanka. Using this tool, you 		can view the popularity of different news under different 		categories. The news headlines for analyzing will be collected 		from <b>Twitter</b> micro blog. Following active news 		providers were chosen to gather the relevant news.</p>
+  <ul>
+    <li>Ada Derana</li>
+    <li>Lanka Breaking News</li>
+    <li>Ceylon Today</li>
+    <li>ITN Srilanka</li>
+    <li>News1st</li>
+  </ul>
+
+  <p>You have to specify the time duration which you are interest in. 		The system categorizes the news within the time period. 	Categorization was done into 12 groups. Some news will be 		belonged into several categories. In such case, multi 		categorization was done in order to classify the news. The 		system provides the count for each category, the percentage, 		and a pie chart will be drawn in order to display the 5 most 		popular groups. The 12 groups are as follows.</p>
+
+  <ul>
+    <li>War, terrorism and crime</li>
+    <li>Economy and business</li>
+    <li>Health</li>
+    <li>Sports</li>
+    <li>Development and government</li>
+    <li>Politics</li>
+    <li>Accident</li>
+    <li>Entertainment</li>
+    <li>Climate and disaster</li>
+    <li>Education</li>
+    <li>Society</li>
+    <li>International</li>
+  </ul>
+  
+
+<?php include 'footer.php';?>

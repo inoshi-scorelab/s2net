@@ -1,0 +1,8 @@
+<tr class=tabs1>
+  <td class=home><a href=index.php><img src='images/home.png'></a></td>
+  <td class=tab><a href=analyze.php>Analyze</a></td>
+  <td class=tab><a href=contact.php>Contract us</a></td>
+  <td></td>
+
+</tr>
+<tr><td  colspan=4> 
